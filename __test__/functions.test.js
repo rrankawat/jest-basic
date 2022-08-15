@@ -1,4 +1,4 @@
-const functions = require('./functions')
+const functions = require('../functions')
 
 // toBe
 test('Add 2 + 2 to equal 4', () => {
